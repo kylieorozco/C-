@@ -4,8 +4,7 @@
  * Purpose: display the 5 cards in user's hand in descreasing order by card points
  *          Note the suit of a card has NO impact on the order
  *          A (=14) has higher point than all other cards, J = 11, Q = 12, K = 13
- *          1 point is not used in the card 
- *** DO NOT CHANGE THIS FILE ***
+ *          1 point is not used in the card
 */
 
 #include <iostream>
